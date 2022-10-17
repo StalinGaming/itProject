@@ -1,0 +1,11 @@
+#canvas{
+    border:black solid 1px;
+    width:1000px;
+    height:500px;
+    max-width: 100%;
+    background-color:darkblue;
+    font-family: 'Bangers', cursive;
+}
+img{
+    display:none;
+}
